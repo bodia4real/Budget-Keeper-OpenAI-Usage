@@ -1,0 +1,26 @@
+[
+    {
+        "amount": 5.0,
+        "category": "Gym",
+        "description": "Membership monthly",
+        "date": "2025-12-10"
+    },
+    {
+        "amount": 250.0,
+        "category": "Clothes",
+        "description": "3 pair of jeans",
+        "date": "2025-12-10"
+    },
+    {
+        "amount": 4.0,
+        "category": "4",
+        "description": "4",
+        "date": "2025-12-10"
+    },
+    {
+        "amount": 11,
+        "category": "Entertainment",
+        "description": "Netflix subscription - $11",
+        "date": "2025-12-10"
+    }
+]
